@@ -1,0 +1,48 @@
+
+body {
+  background-color: rgb(172, 200, 241);
+}
+.center-pic{
+  display:block;
+  margin:auto;
+  }
+  html {
+    scroll-behavior: smooth;
+  }
+  img.l{
+    width: 250px;
+    height:  250px;
+    margin: 15px 150px 5px 230px;
+    border: 3px  rgb(216, 93, 247);
+    padding: 3px;
+  }
+  img.m{
+    width: 250px;
+    height:  250px;
+    margin: 15px 150px 5px 23px;
+    border: 3px  rgb(216, 93, 247);
+    padding: 3px;
+  }
+
+ .wrapper{
+   float:left;
+   width:100%;
+   text-align: center;
+ }
+ .button{
+   display: inline;
+   background-color: rgb(216, 177, 253);
+   margin:15px 230px 30px 130px;
+ }
+ .contact{
+
+  margin: 30px 300px 30px 30px;
+  font-family:'Times New Roman', Times, serif;
+  color: white;
+}
+a.lol{
+  margin: 0px 80px 30px 30px; 
+  font-size: 20px;
+  color:white;
+}
+

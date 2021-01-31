@@ -1,0 +1,12 @@
+h1 {
+  font-family: 'Dancing Script';
+  color:#ffff;
+}
+
+body {
+  background-image : url('port.png') ;
+  background-position : center center;
+  background-repeat : no-repeat;
+  background-attachment : fixed;
+ background-size : cover;
+}
